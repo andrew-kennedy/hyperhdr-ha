@@ -86,6 +86,7 @@ def _component_to_translation_key(component: str) -> str:
         KEY_COMPONENTID_SYSTEMGRABBER: "platform_capture",
         KEY_COMPONENTID_LEDDEVICE: "led_device",
         KEY_COMPONENTID_VIDEOGRABBER: "usb_capture",
+        KEY_COMPONENTID_HDR: "hdr",
     }[component]
 
 
