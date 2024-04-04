@@ -79,6 +79,9 @@
       },
       "usb_capture": {
         "name": "Component USB capture"
+      },
+      "hdr": {
+        "name": "Component HDR capture"
       }
     },
     "sensor": {
